@@ -1,4 +1,5 @@
 # Optimization method for joint relay selection and buffer queue stability
+https://www.jsjkx.com/CN/10.11896/jsjkx.220100082
 
 The optimization method is divided into two stages. In the first stage, the user selects the best relay node, and in the second stage, the relay node makes a task allocation decision.
 `paper_Lyapunov_selection.py` is used to evaluate the user's choice of the best relay node
